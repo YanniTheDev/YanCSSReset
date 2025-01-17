@@ -1,5 +1,5 @@
 {
-  "name": "yancssreset",
+  "name": "yan-css-reset",
   "version": "1.0.0",
   "description": "My custom CSS reset for web development",
   "main": "reset.css",
